@@ -1,0 +1,78 @@
+[
+    {
+    "_id": "70:ee: 50: 6b: 77: 44",
+    "date_setup": 1610448957, 
+    "last_setup": 1610448957, 
+    "type": "NAMain", 
+    "last_status_store": 1613801655, 
+    "module_name": "SH-TempRom", 
+    "firmware": 178, 
+    "wifi_status": 51, 
+    "reachable": true, 
+    "co2_calibrating": false, 
+    "data_type": [
+        "Temperature",
+         "CO2", 
+         "Humidity", 
+         "Noise", 
+         "Pressure"
+        ], 
+    "place": {
+        "altitude": 113, 
+        "city": "Lillestrøm", 
+        "country": "NO", 
+        "timezone": "Europe/Oslo", 
+        "location": [
+            11.068279,
+            59.961844
+            ]
+        }, 
+    "station_name": "Skedsmohallen (SH-TempRom)", 
+    "home_id": "5ff2c869f82ab3667573833c", 
+    "home_name": "Skedsmohallen", 
+    "dashboard_data": {
+        "time_utc": 1613801654, 
+        "Temperature": 22.2, 
+        "CO2": 415, 
+        "Humidity": 24, 
+        "Noise": 54, 
+        "Pressure": 1008.8, 
+        "AbsolutePressure": 995.4, 
+        "max_temp": 22.2, 
+        "date_max_temp": 1613781966, 
+        "date_min_temp": 1613775605, 
+        "temp_trend": "stable", 
+        "pressure_trend": "down"
+        }, 
+    "min_temp": 22.1, 
+    "modules": [
+            {
+            "_id": "02: 00: 00: 6b: 8b: 16", 
+            "type": "NAModule1", 
+            "module_name": "SH-KjøleskapsTemp", 
+            "last_setup": 1610448911, 
+            "data_type": [
+                "Temperature", 
+                "Humidity"
+                ], 
+            "battery_percent": 99, 
+            "reachable": true, 
+            "firmware": 50, 
+            "last_message": 1613801650, 
+            "last_seen": 1613801650, 
+            "rf_status": 41, 
+            "battery_vp": 5986, 
+            "dashboard_data": {
+                "time_utc": 1613801650, 
+                "Temperature": 4.2, 
+                "Humidity": 58, 
+                "min_temp": 4.1, 
+                "max_temp": 4.2, 
+                "date_max_temp": 1613775861, 
+                "date_min_temp": 1613777707, 
+                "temp_trend": "stable"
+                }
+            }
+        ]
+    }
+]

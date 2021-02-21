@@ -1,3 +1,4 @@
+
 # netatmo.py
 
 [![Build Status](https://travis-ci.org/rene-d/netatmo.svg?branch=master)](https://travis-ci.org/rene-d/netatmo)
