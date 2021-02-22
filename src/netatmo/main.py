@@ -21,4 +21,4 @@ print(ws.devices)
 #import datetime
 #readable = datetime.datetime.fromtimestamp(1613792951).isoformat()
 #print(readable)
-# 2021-02-20T04:49:11+01:00
+# 2021-02-20T04:49:11+01:00 // Output
