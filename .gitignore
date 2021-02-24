@@ -7,6 +7,9 @@ fractales/*.ps
 
 work/
 
+src/netatmo/config.py
+src/netatmo/*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

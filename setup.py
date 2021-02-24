@@ -17,7 +17,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/rene-d/netatmo",
     author="Rene Devichi",
-    author_email="rene.github@gmail.com",
+    author_email="rene.github@g",
     classifiers=[
         "License :: Public Domain",
         "Programming Language :: Python :: 3.5",
